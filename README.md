@@ -15,8 +15,7 @@ Link: https://coursera.org/share/cde8369d841f6e5a1958a70041b471b8
 
 ___________________________________________________________________
 # Complete Data Analytics Program - GeeksforGeeks
-Certificate of Internship & Training
-Link: https://media.geeksforgeeks.org/certificates/1709539637/857af3ccf0c564063c5cde1d5f390561.pdf
+Certificate of Internship & Training: https://media.geeksforgeeks.org/certificates/1709539637/857af3ccf0c564063c5cde1d5f390561.pdf
 ___________________________________________________________________
 # Agile Project Management -Google
 Link: https://coursera.org/share/4862db60cae97e47d4196c2d844721bb
