@@ -1,5 +1,5 @@
 # Certificates
-List of all the certifications procured.
+List of all the certifications I have procured.
 _________________________________________________________________
 # Google Business Intelligence Professional Certificate
 Link: https://coursera.org/share/1a7da91d5993506f31b20facb8d77474
